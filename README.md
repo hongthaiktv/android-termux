@@ -1,2 +1,2 @@
 # android-termux
-For android termux
+For shell script
